@@ -3,7 +3,7 @@ hi
 typedef long long ll;
 
 using namespace std;
-
+int feature-1(){}  //for the sake of argument lets say theres a function here
 int main()
 {   ll x,n;
     cin>>x>>n;
